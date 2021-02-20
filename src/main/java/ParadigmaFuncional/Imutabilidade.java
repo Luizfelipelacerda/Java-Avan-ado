@@ -1,4 +1,4 @@
-package FatorialRecursivo;
+package ParadigmaFuncional;
 
 import java.util.function.UnaryOperator;
 
